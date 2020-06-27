@@ -91,7 +91,7 @@
     <a href="https://jsernacompilador.herokuapp.com/compiladores"> heroku </a> <br>
     <a href="/compiladores/files/ejemplo1.txt" download>descargar ejemplo 1</a> <br>
     <a href="/compiladores/files/ejemplo2.txt" download>descargar ejemplo 2</a> <br>
-    <a href="/compiladores/files/ejemplo3.php" download>descargar ejemplo 3</a> <br>
+    
     <input type="button" value="ejemplo 1" Onclick="texto1()">
     <input type="button" value="ejemplo 2" Onclick="texto2()">    
     <input type="button" value="Tokenizar" OnClick="tokenizar(); Tokenizado()">
